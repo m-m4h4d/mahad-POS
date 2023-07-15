@@ -1,0 +1,5 @@
+Milk_1L 130.00 6 0
+Biscuit_H/R_Box 240.00 24 0
+Biscuit_S/P_Box 300.00 36 0
+Biscuit_B/P_Box 240.00 48 0
+Biscuit_T/P_Box 240.00 72 0
